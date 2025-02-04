@@ -1,0 +1,25 @@
+[
+    {
+      "title": "Buck-IT",
+      "imageSrc": "https://cdn-icons-png.flaticon.com/512/25/25231.png",
+      "description": "This is a project made to assist in storing bucket list items.",
+      "skills": ["JavaScript", "HTML", "Bootstrap"],
+      "source": "https://github.com/Bfrausb/Buck-IT"
+    },
+    {
+      "title": "Employee Tracker",
+      "imageSrc": "https://cdn-icons-png.flaticon.com/512/25/25231.png",
+      "description": "This is an application to track employees using a CLI.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.youtube.com/watch?v=xOQUYyyz128",
+      "source": "https://github.com/jwilson1229/Employee-Tracker"
+    },
+    {
+      "title": "ReadMe Generator",
+      "imageSrc": "https://cdn-icons-png.flaticon.com/512/25/25231.png",
+      "description": "This is a project to assist developers in creating high quality readme files.",
+      "skills": ["inquirer", "Express", "fs"],
+      "demo": "https://www.youtube.com/watch?v=iVSTNVpnRtc",
+      "source": "https://github.com/jwilson1229/Unit-7"
+    }
+  ]

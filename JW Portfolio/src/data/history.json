@@ -1,0 +1,25 @@
+[
+    {
+      "role": "Software Engineer Student",
+      "company": "University of Denver",
+      "startDate": "Oct, 2024",
+      "endDate": "Present",
+      "experiences": ["Worked with both frontend and backend development"]
+    },
+    {
+      "role": "Surgical Technologist",
+      "company": "US Army",
+      "startDate": "April, 2013",
+      "endDate": "April, 2021",
+      "experiences": ["Assisted in surgical procedures across multiple fields including robotics."]
+    },
+    {
+      "role": "Product Specialist",
+      "company": "Dynamic Field Efficiency Lab",
+      "startDate": "Jan, 2024",
+      "endDate": "Present",
+      "experiences": [
+        "Assist in product development as well as assisting in driving company sales."
+      ]
+    }
+  ]

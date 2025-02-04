@@ -1,0 +1,26 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "https://cdn3d.iconscout.com/3d/free/thumb/free-html-3d-logo-download-in-png-blend-fbx-gltf-file-formats--code-coding-programming-social-media-pack-company-brand-logos-4781249.png?f=webp"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "https://cdn3d.iconscout.com/3d/free/thumb/free-css-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-interface-website-isolated-programming-language-pack-logos-icons-5453030.png?f=webp"
+    },
+    {
+      "title": "React",
+      "imageSrc": "https://cdn3d.iconscout.com/3d/free/thumb/free-react-3d-icon-download-in-png-blend-fbx-gltf-file-formats--facebook-logo-native-javascript-library-user-interfaces-coding-lang-pack-logos-icons-7578010.png?f=webp"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "https://cdn3d.iconscout.com/3d/free/thumb/free-nodejs-3d-icon-download-in-png-blend-fbx-gltf-file-formats--node-js-open-source-code-logos-and-brands-pack-icons-9325317.png?f=webp"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "https://cdn3d.iconscout.com/3d/free/thumb/free-sql-3d-icon-download-in-png-blend-fbx-gltf-file-formats--database-data-management-relational-logo-analysis-coding-lang-pack-logos-icons-7578022.png?f=webp"
+    },
+    {
+        "title": "JavaScript",
+        "imageSrc": "https://static.vecteezy.com/system/resources/previews/012/697/298/non_2x/3d-javascript-logo-design-free-png.png"
+    }
+  ]
